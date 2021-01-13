@@ -398,4 +398,10 @@
     align-items: center;
     height: 83vh;
   }
+
+  .error-email {
+    background-color: #fee2e2;
+    color: #766969;
+    border-color: #b91c1c;
+  }
 }
