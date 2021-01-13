@@ -6,20 +6,30 @@ This project arises with the intention of collaborating with the registration of
 
 # Accessing the following routes you can see the different screens of the application
 
-## Success Registation:
+## Main route
 
-route -> /success-registration
+https://cmyk-panel-test.vercel.app/
+
+## Success Registation:
 
 This screen is displayed after the participant registration is successful.
 
-## Substitute Participant Form:
+path -> /success-registration
 
-route -> /substitute-participant-form
+full route -> https://cmyk-panel-test.vercel.app/success-registration
+
+## Substitute Participant Form:
 
 This screen is shown when the maximum number of participants has been completed, but with the possibility that the person interested in participating in the event can register as a substitute participant
 
+path -> /substitute-participant-form
+
+full route -> https://cmyk-panel-test.vercel.app/substitute-participant-form
+
 ## Closed Form
 
-route -> /closed-form
-
 This screen is displayed when registrations are complete for both participants and substitute participants.
+
+path -> /closed-form
+
+full route -> https://cmyk-panel-test.vercel.app/closed-form
